@@ -22,9 +22,6 @@ dist/
 build/
 public/
 
-# Tailwind CSS specific files
-.tailwindcss
-.tailwind.config.js
 
 # Temporary files
 *.tmp
